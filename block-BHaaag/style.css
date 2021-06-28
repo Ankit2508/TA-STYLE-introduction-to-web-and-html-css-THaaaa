@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(7, 24, 177) ;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: smaller;
+}
+
+h2{
+    color: rgb(12, 141, 0);
+}
+li{
+    font-size: 20px;
+}
+a{
+    color: red;
+}
